@@ -7,6 +7,20 @@
     max-width: 900px;
     margin: auto;
   }
+  svg{
+    font-weight:bold;
+    max-width:640px;
+    height:100%;
+  }
+  .ondas{
+    background: #f1f1f1;
+    background-size: cover;
+    font-family: 'Cabin Condensed', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .coment {
     background-color: #cccccc;
     text-align: center;
