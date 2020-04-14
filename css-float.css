@@ -40,13 +40,17 @@
     width: 33.33%;
     height: 400px;
   }
+  .back-images{
+    background-color: #ffffff;
+  }
   .row:after {
     content: "";
     display: table;
     clear: both;
   }
   .footer {
-    background-color: #f1f1f1;
+    background-color: #000000;
+    color: #ffffff;
     padding: 5px;
     text-align: center;
   }
