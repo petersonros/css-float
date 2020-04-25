@@ -2,4 +2,4 @@
 
  Templates
  
- Repositório criado com a intenção de disponibilizar exemplos Css-float
+ Repositório criado com a intenção de disponibilizar exemplos em CSS.
